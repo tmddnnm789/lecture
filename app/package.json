@@ -14,7 +14,7 @@
     "three": "^0.151.3"
   },
   "bin": {
-    "node": "bin/www.js"
+    "node": "./bin/www.js"
   },
   "devDependencies": {},
   "keywords": [],
